@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Sample_01</string>
+    <string name="et_hint">tu nombre</string>
+    <string name="bt_hello">Saludame</string>
+    <string name="tv_message">Hello!</string>
+
+</resources>

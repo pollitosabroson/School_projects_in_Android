@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello1">Hello World, Main!</string>
+    <string name="app_name">Sample04</string>
+    
+    <string name="menu1">Opcion 1</string>
+    <string name="menu2">Opcion 2</string>
+    
+    <string name="txtboton">Muestra cuadro de dialogo</string>
+    
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Registro rápido</string>
+    <string name="app_name">Sample03</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_pass">Contraseña</string>
+    <string name="hint_email">usuario@mail.net</string>
+    
+    <string name="sexo1">Femenino</string>
+    <string name="sexo2">Masculino</string>
+    
+    <string name="check">Estoy de acuerdo con sus políticas</string>
+    <string name="registro_b">Registrar</string>
+    
+</resources>
